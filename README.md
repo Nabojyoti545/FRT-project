@@ -44,7 +44,11 @@ https://youtu.be/KzWihJKkG_k
 
 ## Tech Stack :
 -Azure services (hosting)
+
 -HTML
+
 -CSS
+
 -javascript
+
 -Bootstrap
